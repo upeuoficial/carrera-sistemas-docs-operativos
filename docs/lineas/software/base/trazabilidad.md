@@ -25,3 +25,30 @@ B --> C[Cursos]
 C --> D[Productos U3]
 D --> E[EPE]
 ```
+
+
+### Principios de trazabilidad
+
+- Cada competencia tiene evidencias progresivas
+- Cada evidencia corresponde a cursos
+- Las evidencias convergen en un artefacto EPE
+- Cada artefacto se evalúa con rúbrica específica
+- La evaluación se basa en productos reales
+
+---
+
+### Garantía de calidad
+
+El modelo asegura:
+
+- Coherencia entre formación y evaluación
+- Evaluación basada en evidencia observable
+- Separación clara de competencias (CE021–CE024)
+- Independencia tecnológica
+- Alineación con el perfil de egreso
+
+---
+
+### Declaración final
+
+La trazabilidad del programa permite demostrar que cada competencia es desarrollada progresivamente y evaluada mediante productos reales, garantizando consistencia, objetividad y alineación con estándares de ingeniería de software.

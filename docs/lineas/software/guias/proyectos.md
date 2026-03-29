@@ -2,166 +2,271 @@
 
 ---
 
-## 🎯 Propósito
+## 🎯 1. Propósito
 
-Esta guía establece la estructura para el desarrollo y evaluación de proyectos en la línea de Ingeniería de Software, alineada al enfoque por competencias.
+La presente guía establece la forma de desarrollo y evaluación de proyectos en la carrera de Ingeniería de Sistemas, bajo el enfoque por competencias.
 
-Los proyectos se desarrollan de manera progresiva:
+Los proyectos se desarrollan de manera progresiva en tres niveles:
 
-- **PS (Proyecto Sello)** → nivel curso  
-- **PI (Proyecto Integrador)** → nivel ciclo  
-- **EPE (Evaluación del Perfil de Egreso)** → nivel final  
 
----
 
-## 🧠 Enfoque
+# Guía de Proyectos de Software
 
-> No se evalúan cursos, se evalúa la capacidad de construir un sistema de software.
+
+## Guías por tipo de proyecto
+
+- [Guía Proyecto Sello FP](fp/guia-fp.md)
+- [Guía Proyecto Sello POO](poo/guia-poo.md)
+- [Guía Proyecto Integrador PI1 (IR, BD1, LP1)](pi1/guia-pi1.md)
+- [Guía Proyecto Integrador PI2 (ADS, BD2, LP2)](pi2/guia-pi2.md)
+- [Guía Proyecto Sello DIST](dist/guia-dist.md)
+- [Guía Proyecto Sello MOV](mov/guia-mov.md)
+- [Guía Proyecto Sello IS1](is1/guia-is1.md)
+- [Guía Proyecto Sello PDS](pds/guia-pds.md)
+- [Guía Proyecto Sello IS2](is2/guia-is2.md)
+- [Guía Proyecto Evaluación del Perfil de Egreso (EPE)](epe/guia-epe.md)
+## 🧠 2. Enfoque
+
+> No se evalúan fases del proyecto, se evalúa la capacidad de construir un sistema de software.
 
 El estudiante desarrolla un sistema progresivamente:
 
-1. Define el problema (Brief)  
-2. Diseña la solución  
-3. Construye el sistema  
-4. Integra, valida y sustenta  
+- Definición del problema (Brief)  
+- Diseño de la solución  
+- Construcción del sistema  
+- Integración, validación y sustentación  
+
+Los entregables representan **evidencias de competencias**, no fases aisladas.
 
 ---
 
-## 📌 Tipos de proyecto
+## 🔍 3. Naturaleza del proyecto
 
-| Tipo | Nivel | Evaluación |
-|------|------|-----------|
-| PS | Curso | Docente |
-| PI | Ciclo | Docente |
-| EPE | Final | Jurado externo |
+El proyecto:
+
+- Resuelve un problema real o contextualizado  
+- Se desarrolla de manera progresiva  
+- Integra componentes en un sistema funcional  
+- Se trabaja en equipo  
+
+> ✔ No se aceptan entregables aislados o inconexos  
 
 ---
 
-## 🧾 1. Brief del proyecto (obligatorio)
+## 🧾 4. Brief del proyecto (obligatorio)
 
 Todo proyecto inicia con un **Brief aprobado**.
 
-### Contenido del Brief:
+### Contenido:
 
 - Problema  
-- Contexto y stakeholders  
-- Objetivo del sistema  
+- Objetivo  
 - Alcance  
-- Datos (si aplica)  
-- Enfoque de solución  
-- Viabilidad  
+- Stakeholders  
+- Contexto del sistema  
 
-> ⚠️ Sin brief aprobado, no se inicia el proyecto.
+📌 Hito obligatorio  
+- Semana 2–4  
+- Aprobación docente  
 
----
-
-## 🏗 2. Desarrollo del proyecto
-
-El proyecto se construye en tres niveles:
-
-### 🔹 U1 — Base
-- Definición inicial del sistema  
-- Componentes básicos  
+🚫 No se permite avanzar sin brief aprobado  
 
 ---
 
-### 🔹 U2 — Extensión
+## 🏗 5. Desarrollo del proyecto
+
+### 🔹 Unidad 1 — Base  
+Evaluación: Semana 5–6  
+
+**Resultado esperado:**
+- Definición clara del sistema  
+- Componentes iniciales  
+
+---
+
+### 🔹 Unidad 2 — Extensión  
+Evaluación: Semana 10–11  
+
+**Resultado esperado:**
 - Integración de componentes  
-- Mayor complejidad  
+- Sistema en crecimiento  
 
 ---
 
-### 🔹 U3 — Producto final
-- Sistema completo  
-- Integrado y funcional  
+### 🔹 Unidad 3 — Integración  
+Evaluación: Semana 14–16  
+
+**Resultado esperado:**
+- Sistema funcional completo  
+- Componentes integrados  
 
 ---
 
-## 📅 3. Cronograma (alineado al sílabo)
+## 📦 6. Entregables del proyecto
 
-| Hito | Semana | Entregable |
-|------|--------|-----------|
-| Brief aprobado | 2–3 | Definición del proyecto |
-| Avance 1 | 5–6 | Arquitectura y diseño |
-| Avance 2 | 11–12 | Sistema base funcional |
-| Final | 15–16 | Sistema completo + sustentación |
-
-> ✔ Cada hito debe ser aprobado para avanzar al siguiente.
+Los entregables representan **evidencias de competencias del programa**:
 
 ---
 
-## 🧪 4. Evaluación del proyecto
+### 🔸 E1 — Definición del sistema  
+(Evidencia principal: CE021)
 
-### 🔹 PS y PI
-- Evaluación por docente  
-- Basada en el producto desarrollado  
-
----
-
-### 🔹 EPE
-- Evaluación por jurado externo  
-- Incluye:
-
-  - Demostración del sistema  
-  - Sustentación técnica  
-  - Video Pitch (CE0217)  
+Incluye:
+- Problema definido  
+- Requerimientos iniciales  
+- Propuesta de solución  
 
 ---
 
-## 🧩 5. Qué se evalúa
+### 🔸 E2 — Diseño y datos  
+(Evidencias: CE021 + CE022)
 
-| Criterio | Descripción |
-|----------|------------|
-| Arquitectura | Organización del sistema |
-| Funcionalidad | Cumplimiento del objetivo |
-| Integración | Conexión entre componentes |
-| Datos | Consistencia y gestión |
-| Calidad | Pruebas, seguridad, mejora |
-| Sustentación | Explicación del sistema |
+Incluye:
+- Diseño del sistema  
+- Modelo de datos  
+- Arquitectura inicial  
 
 ---
 
-## 🏆 6. Niveles de logro
+### 🔸 E3 — Implementación  
+(Evidencia principal: CE023)
 
-| Nivel | Descripción |
-|------|------------|
-| Excelente (18–20) | Sistema completo y sin errores |
-| Bueno (13–17) | Funciona con detalles menores |
-| Regular (10–12) | Incompleto o con fallas |
-| Deficiente (0–9) | No cumple |
+Incluye:
+- Sistema funcional  
+- Integración de componentes  
+- Arquitectura implementada  
 
----
-
-## 🧠 7. Tipo de sistema
-
-> El tipo de sistema no es predefinido.
-
-El estudiante puede desarrollar:
-
-- Sistema web  
-- Sistema móvil  
-- Sistema de escritorio  
-- Sistema distribuido  
-
-✔ Siempre que sea coherente con el problema planteado  
-✔ Y esté técnicamente justificado  
+👉 Puede incluir integración de servicios externos (ej. IA, APIs)
 
 ---
 
-## 🎤 8. Sustentación
+### 🔸 E4 — Calidad  
+(Evidencia: CE024)
 
-El proyecto final incluye:
+Incluye:
+- Pruebas  
+- Automatización  
+- Validación del sistema  
 
-- Demo del sistema  
+---
+
+### 🔸 E5 — Sustentación  
+(Evidencia: CE0217)
+
+Incluye:
+- Video pitch  
+- Demostración del sistema  
 - Explicación técnica  
 - Decisiones de diseño  
-- Respuestas a preguntas  
-- Video Pitch  
+- Respuesta a preguntas  
 
 ---
 
-## 🎯 Mensaje final
+## 📅 7. Cronograma
 
-> A lo largo de la carrera, el estudiante pasa de construir programas simples a desarrollar sistemas completos, demostrando su capacidad profesional en la evaluación final.
+| Hito | Semana |
+|------|--------|
+| Brief aprobado | 2–4 |
+| E1 | 5–6 |
+| E2 | 10–11 |
+| E3 | 14–16 |
+| Sustentación | 15–16 |
 
 ---
+
+## 🧪 8. Evaluación
+
+La evaluación se realiza por competencias:
+
+| Competencia | Enfoque |
+|------------|--------|
+| CE021 | Requerimientos y diseño |
+| CE022 | Datos |
+| CE023 | Implementación |
+| CE024 | Calidad |
+| CE0217 | Sustentación |
+
+Las rúbricas se encuentran en el Documento 05 del programa.
+
+---
+
+## 🎤 9. Sustentación
+
+La sustentación es una evidencia transversal que incluye:
+
+- Video pitch (3–5 min)  
+- Demostración del sistema  
+- Explicación técnica  
+- Justificación de decisiones  
+- Respuesta a preguntas  
+
+Se evalúa mediante una rúbrica única (CE0217).
+
+---
+
+## 🧩 10. Tipo de sistema
+
+El sistema puede ser:
+
+- Web  
+- Móvil  
+- Escritorio  
+- Distribuido  
+
+✔ Según el problema  
+✔ Sin imponer tecnologías  
+
+👉 Puede incluir integración de servicios externos (ej. IA, APIs)
+
+---
+
+## 🎯 11. Nivel de exigencia por tipo de proyecto
+
+| Tipo | Nivel esperado |
+|------|--------------|
+| PS | Solución funcional básica/intermedia |
+| PI | Sistema integrado de nivel intermedio |
+| EPE | Sistema completo a nivel profesional |
+
+---
+
+## 🔍 12. Naturaleza del EPE
+
+El EPE no implica desarrollar un nuevo proyecto desde cero.
+
+Consiste en la:
+
+- Integración  
+- Consolidación  
+- Validación  
+
+de evidencias desarrolladas en PS y PI.
+
+Se evalúa:
+
+- Coherencia del sistema  
+- Integración completa  
+- Calidad técnica  
+- Sustentación profesional  
+
+---
+
+## ⚠️ 13. Consideraciones
+
+- Trabajo en equipo obligatorio  
+- Uso de repositorio (Git)  
+- Cada entrega es requisito para la siguiente  
+- Debe existir trazabilidad entre componentes  
+- El sistema debe ser integrado  
+
+🚫 No se aceptan:
+
+- entregables aislados  
+- sistemas incompletos  
+- soluciones sin coherencia  
+
+---
+
+## 🏁 Mensaje final
+
+> El estudiante progresa desde soluciones simples hasta sistemas completos, demostrando su capacidad profesional mediante la construcción, integración y sustentación de un sistema de software.

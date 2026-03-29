@@ -3,6 +3,17 @@
 ## Ingeniería de Software
 
 > **CE02 — Gestiona y desarrolla software de manera eficiente y efectiva, basándose en estándares internacionales de calidad a fin de lograr el control y aseguramiento de la calidad según el contexto de la organización.**
+<br>Rol: Software Engineer 
+
+
+## Tabla SW1. Competencias específicas
+
+| Competencia específica | Detalle de la competencia según CDIO / SWEBOK / ISO 12207 |
+|---|---|
+| **CE021 Ingeniería de Requerimientos** | Define, analiza, valida y documenta requerimientos del sistema; diseña la arquitectura y realiza el modelado funcional y estructural.<br>*Rol: Ingeniero de Requerimientos o Analista Funcional / Arquitecto de Software* |
+| **CE022 Ingeniería de la Información** | Modela, implementa, asegura y administra bases de datos para soportar los requerimientos de información del sistema.<br>*Rol: DBA o Ingeniero de Datos orientado a bases de datos* |
+| **CE023 Programación** | Construye soluciones de software mediante la implementación de componentes, servicios e interfaces funcionales integradas.<br>*Rol: Desarrollador Móvil / Desarrollador de Software* |
+| **CE024 Calidad de Software** | Evalúa la calidad del software, valida su funcionamiento, automatiza procesos de verificación y define acciones de mejora y evolución.<br>*Rol: QA Engineer / DevOps Engineer* |
 
 ## Criterios de evaluación
 
@@ -31,3 +42,5 @@ CE02 --> CE022
 CE02 --> CE023
 CE02 --> CE024
 ```
+
+
