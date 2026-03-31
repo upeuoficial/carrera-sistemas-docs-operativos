@@ -21,12 +21,24 @@ Esta línea organiza la evaluación por **competencias**, **evidencias**, **curs
 
 ### Flujo del modelo
 
+
 ```mermaid
 flowchart LR
-A[Competencias CE02] --> B[Evidencias CE02xx]
-B --> C[Curso]
-C --> D[Producto U3]
-D --> E[EPE]
+
+A[Competencias del Programa<br>CE021 - CE024] --> B[Evidencias<br>CE02xx]
+
+B --> C[Cursos del Programa<br>PS / PI]
+
+C --> D[Entregables<br>E1 - E5]
+
+D --> E[Productos del Sistema]
+
+E --> F[Evaluación<br>Rúbricas]
+
+F --> G[EPE<br>Evaluación Final]
+
+G --> H[Perfil de Egreso]
+
 ```
 
 

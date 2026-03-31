@@ -43,9 +43,9 @@ extra_javascript:
 nav:
   - 🏠 Inicio: index.md
 
-  - 💻 Software:
+  - Software:
       - 🏠 Inicio: lineas/software/index.md
-      - 📂 Base:
+      - Base:
           - 🏅 Competencias: lineas/software/base/competencias.md
           - 📄 Evidencias: lineas/software/base/evidencias.md
           - 🗂️ Curso–Evidencia–Nivel: lineas/software/base/curso-evidencia-nivel.md
@@ -53,88 +53,88 @@ nav:
           - 📝 Evaluación EPE: lineas/software/base/epe.md
           - 🔗 Trazabilidad completa: lineas/software/base/trazabilidad.md
 
-      - 📘 Guía de Proyectos:
-          - 📘 Guía de Proyectos de Software: lineas/software/guias/proyectos.md
-          - 🟦 Proyecto Sello FP: lineas/software/guias/fp/guia-fp.md
-          - 🟦 Proyecto Sello POO: lineas/software/guias/poo/guia-poo.md
-          - 🟧 Proyecto Integrador PI1 (IR, BD1, LP1): lineas/software/guias/pi1/guia-pi1.md
-          - 🟧 Proyecto Integrador PI2 (ADS, BD2, LP2): lineas/software/guias/pi2/guia-pi2.md
-          - 🟩 Proyecto Sello DIST: lineas/software/guias/dist/guia-dist.md
-          - 🟩 Proyecto Sello MOV: lineas/software/guias/mov/guia-mov.md
-          - 🟩 Proyecto Sello IS1: lineas/software/guias/is1/guia-is1.md
-          - 🟩 Proyecto Sello PDS: lineas/software/guias/pds/guia-pds.md
-          - 🟩 Proyecto Sello IS2: lineas/software/guias/is2/guia-is2.md
-          - 🟪 Evaluación del Perfil de Egreso (EPE): lineas/software/guias/epe/guia-epe.md
+      - Guía de Proyectos:
+          - 📘 Guía de Proyectos SW: lineas/software/guias/proyectos.md
+          - 🟦 PS FP: lineas/software/guias/fp/guia-fp.md
+          - 🟦 PS POO: lineas/software/guias/poo/guia-poo.md
+          - 🟧 PI PI1 (IR, BD1, LP1): lineas/software/guias/pi1/guia-pi1.md
+          - 🟧 PI PI2 (ADS, BD2, LP2): lineas/software/guias/pi2/guia-pi2.md
+          - 🟩 PS DIST: lineas/software/guias/dist/guia-dist.md
+          - 🟩 PS MOV: lineas/software/guias/mov/guia-mov.md
+          - 🟩 PS IS1: lineas/software/guias/is1/guia-is1.md
+          - 🟩 PS PDS: lineas/software/guias/pds/guia-pds.md
+          - 🟩 PS IS2: lineas/software/guias/is2/guia-is2.md
+          - 🟪 Evaluación EPE: lineas/software/guias/epe/guia-epe.md
 
-      - 📊 Rúbricas de Evaluación:
-          - FP N1 (c1): lineas/software/rubrica/n1-fp-ps.md
-          - POO N1 (c2): lineas/software/rubrica/n1-poo-ps.md
-          - IR N2 (c3): lineas/software/rubrica/n2-ir-pi.md
-          - BD1 N2 (c3): lineas/software/rubrica/n2-bd1-pi.md
-          - LP1 N2 (c3): lineas/software/rubrica/n2-lp1-pi.md
-          - ADS N2 (c4): lineas/software/rubrica/n2-ads-pi.md
-          - BD2 N2 (c4): lineas/software/rubrica/n2-bd2-pi.md
-          - LP2 N2 (c4): lineas/software/rubrica/n2-lp2-pi.md
-          - IS1 N2 (c6): lineas/software/rubrica/n2-is1-ps.md
-          - DIST N3 (c5): lineas/software/rubrica/n3-dist-ps.md
-          - MOV N3 (c6): lineas/software/rubrica/n3-mov-ps.md
-          - PDS N3 (c7): lineas/software/rubrica/n3-pds-ps.md
-          - IS2 N3 (c7): lineas/software/rubrica/n3-is2-ps.md
-          - CE021-Ing. Req. PI N2: lineas/software/rubrica/n2-ce021-pi.md
-          - CE022-Ing. Info. PI N2: lineas/software/rubrica/n2-ce022-pi.md
-          - CE023-Programación PI N2: lineas/software/rubrica/n2-ce023-pi.md
-          - CE024-Calidad PI N2: lineas/software/rubrica/n2-ce024-pi.md
-          - CE021-Ing. Req. EPE N3: lineas/software/rubrica/n3-ce021-epe.md
-          - CE022-Ing. Info. EPE N3: lineas/software/rubrica/n3-ce022-epe.md
-          - CE023-Programación EPE N3: lineas/software/rubrica/n3-ce023-epe.md
-          - CE024-Calidad EPE N3: lineas/software/rubrica/n3-ce024-epe.md
-          - Sustentación PS/PI/EPE: lineas/software/rubrica/sustentacion-ps-pi-epe.md
+      - Rúbricas de Evaluación:
+          - 📊 FP N1 (c1): lineas/software/rubrica/n1-fp-ps.md
+          - 📊 POO N1 (c2): lineas/software/rubrica/n1-poo-ps.md
+          - 📊 IR N2 (c3): lineas/software/rubrica/n2-ir-pi.md
+          - 📊 BD1 N2 (c3): lineas/software/rubrica/n2-bd1-pi.md
+          - 📊 LP1 N2 (c3): lineas/software/rubrica/n2-lp1-pi.md
+          - 📊 ADS N2 (c4): lineas/software/rubrica/n2-ads-pi.md
+          - 📊 BD2 N2 (c4): lineas/software/rubrica/n2-bd2-pi.md
+          - 📊 LP2 N2 (c4): lineas/software/rubrica/n2-lp2-pi.md
+          - 📊 IS1 N2 (c6): lineas/software/rubrica/n2-is1-ps.md
+          - 📊 DIST N3 (c5): lineas/software/rubrica/n3-dist-ps.md
+          - 📊 MOV N3 (c6): lineas/software/rubrica/n3-mov-ps.md
+          - 📊 PDS N3 (c7): lineas/software/rubrica/n3-pds-ps.md
+          - 📊 IS2 N3 (c7): lineas/software/rubrica/n3-is2-ps.md
+          - 📊 CE021-Ing. Req. PI N2: lineas/software/rubrica/n2-ce021-pi.md
+          - 📊 CE022-Ing. Info. PI N2: lineas/software/rubrica/n2-ce022-pi.md
+          - 📊 CE023-Programac. PI N2: lineas/software/rubrica/n2-ce023-pi.md
+          - 📊 CE024-Calidad PI N2: lineas/software/rubrica/n2-ce024-pi.md
+          - 📊 CE021-Ing. Req. EPE N3: lineas/software/rubrica/n3-ce021-epe.md
+          - 📊 CE022-Ing. Info. EPE N3: lineas/software/rubrica/n3-ce022-epe.md
+          - 📊 CE023-Programac. EPE N3: lineas/software/rubrica/n3-ce023-epe.md
+          - 📊 CE024-Calidad EPE N3: lineas/software/rubrica/n3-ce024-epe.md
+          - 📊 Sustentación PS/PI/EPE: lineas/software/rubrica/sustentacion-ps-pi-epe.md
 
-      - 📝 Plantillas:
-          - 📝 Plantilla de Brief: lineas/software/plantillas/brief.md
+      - Plantillas:
+          - 📝 Plantilla Brief: lineas/software/plantillas/brief.md
           - 📝 Plantilla E1: lineas/software/plantillas/e1.md
           - 📝 Plantilla E2: lineas/software/plantillas/e2.md
           - 📝 Plantilla E3: lineas/software/plantillas/e3.md
           - 📝 Plantilla E4: lineas/software/plantillas/e4.md
           - 📝 Plantilla E5: lineas/software/plantillas/e5.md
 
-      - 📚 Estándares y Manuales:
+      - Estándares y Manuales:
           - 🛡️ Política de Codificación: lineas/software/estandares/politica-codificacion.md
           - 🔀 Política de Ramas y PR: lineas/software/estandares/politica-ramas-pr.md
           - 📑 Manual de PR: lineas/software/estandares/manual-pr-github-web.md
 
-  - 🏢 Gestión TI:
+  - Gestión TI:
       - Inicio: lineas/gestion/index.md
-      - 📂 Base:
+      - Base:
           - 🏅 Competencias: lineas/gestion/base/competencias.md
           - 📄 Evidencias: lineas/gestion/base/evidencias.md
           - 🗂️ Curso–Evidencia–Nivel: lineas/gestion/base/curso-evidencia-nivel.md
           - 📦 Productos: lineas/gestion/base/productos.md
           - 📝 Evaluación EPE: lineas/gestion/base/epe.md
           - 🔗 Trazabilidad completa: lineas/gestion/base/trazabilidad.md
-      - 📚 Estándares y Manuales: []
+      - Estándares y Manuales: []
           # Agrega aquí los estándares y manuales de gestión cuando existan
 
-  - 🖥️ Infraestructura:
+  - Infraestructura:
       - Inicio: lineas/infraestructura/index.md
-      - 📂 Base:
+      - Base:
           - 🏅 Competencias: lineas/infraestructura/base/competencias.md
           - 📄 Evidencias: lineas/infraestructura/base/evidencias.md
           - 🗂️ Curso–Evidencia–Nivel: lineas/infraestructura/base/curso-evidencia-nivel.md
           - 📦 Productos: lineas/infraestructura/base/productos.md
           - 📝 Evaluación EPE: lineas/infraestructura/base/epe.md
           - 🔗 Trazabilidad completa: lineas/infraestructura/base/trazabilidad.md
-      - 📚 Estándares y Manuales: []
+      - Estándares y Manuales: []
           # Agrega aquí los estándares y manuales de infraestructura cuando existan
 
-  - 🤖 CD/IA:
+  - CD/IA:
       - Inicio: lineas/cd-ia/index.md
-      - 📂 Base:
+      - Base:
           - 🏅 Competencias: lineas/cd-ia/base/competencias.md
           - 📄 Evidencias: lineas/cd-ia/base/evidencias.md
           - 🗂️ Curso–Evidencia–Nivel: lineas/cd-ia/base/curso-evidencia-nivel.md
           - 📦 Productos: lineas/cd-ia/base/productos.md
           - 📝 Evaluación EPE: lineas/cd-ia/base/epe.md
           - 🔗 Trazabilidad completa: lineas/cd-ia/base/trazabilidad.md
-      - 📚 Estándares y Manuales: []
+      - Estándares y Manuales: []
           # Agrega aquí los estándares y manuales de CD/IA cuando existan
