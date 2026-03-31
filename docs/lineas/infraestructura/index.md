@@ -4,9 +4,9 @@ Esta línea organiza la documentación operativa de competencias, evidencias, pr
 
 ## 🚀 Acceso rápido
 
-- [1. Competencias del programa](competencias.md)
-- [2. Evidencias del programa](evidencias.md)
-- [3. Curso – Evidencia – Nivel](curso-evidencia-nivel.md)
-- [4. Productos por curso](productos.md)
-- [5. Evaluación EPE](epe.md)
-- [6. Trazabilidad completa](trazabilidad.md)
+- [1. Competencias del programa](base/competencias.md)
+- [2. Evidencias del programa](base/evidencias.md)
+- [3. Curso – Evidencia – Nivel](base/curso-evidencia-nivel.md)
+- [4. Productos por curso](base/productos.md)
+- [5. Evaluación EPE](base/epe.md)
+- [6. Trazabilidad completa](base/trazabilidad.md)
