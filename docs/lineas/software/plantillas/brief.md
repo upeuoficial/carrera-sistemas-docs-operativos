@@ -9,6 +9,7 @@
 
 ## 2. Problema
 Describe el problema que se busca resolver.
+
 - **PS:** problema simple y acotado
 - **PI:** problema real del contexto (negocio/organización)
 - **EPE:** problema real validado con evidencia (datos, actores)
@@ -22,12 +23,14 @@ Describe el problema que se busca resolver.
 
 ## 4. Objetivo del sistema
 ¿Qué solución propone el sistema?
+
 - **PS:** objetivo funcional básico
 - **PI:** objetivo alineado a proceso
 - **EPE:** objetivo medible (valor/impacto)
 
 ## 5. Alcance
 Qué incluye y qué no incluye el sistema.
+
 - **PS:** funcionalidades básicas (ej. Ventas, Pedido)
 - **PI:** módulos + integraciones
 - **EPE:** alcance completo + límites + supuestos

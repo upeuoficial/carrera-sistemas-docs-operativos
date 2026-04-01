@@ -10,10 +10,8 @@ Los proyectos se desarrollan de manera progresiva en tres niveles:
 
 
 
-# Guía de Proyectos de Software
 
-
-## Guías por tipo de proyecto
+### Guías por tipo de proyecto
 
 - [Guía Proyecto Sello FP](fp/guia-fp.md)
 - [Guía Proyecto Sello POO](poo/guia-poo.md)
@@ -270,3 +268,151 @@ Se evalúa:
 ## 🏁 Mensaje final
 
 > El estudiante progresa desde soluciones simples hasta sistemas completos, demostrando su capacidad profesional mediante la construcción, integración y sustentación de un sistema de software.
+
+
+
+
+
+
+## 📋 Checklist Docente — Evaluación preliminar de Proyectos (PS / PI / EPE)
+
+---
+
+### 🎯 Propósito
+
+Este checklist permite verificar la coherencia, integración y calidad de los proyectos desarrollados por los estudiantes, alineados al enfoque por competencias.
+
+---
+
+### 🧠 Uso del checklist
+
+El docente debe validar:
+
+- Evidencias por competencia (CE021–CE024)
+- Integración del sistema
+- Nivel de desarrollo (PS / PI / EPE)
+
+---
+
+### 🔍 1. CE021 — Requerimientos
+
+| Criterio | Sí | No | Observaciones |
+|--------|----|----|--------------|
+| Problema claramente definido | ☐ | ☐ | |
+| Stakeholders identificados | ☐ | ☐ | |
+| Requerimientos completos | ☐ | ☐ | |
+| Prototipos coherentes | ☐ | ☐ | |
+| Arquitectura definida | ☐ | ☐ | |
+| UML presente | ☐ | ☐ | |
+| Trazabilidad básica | ☐ | ☐ | |
+
+---
+
+### 🗄 2. CE022 — Datos
+
+| Criterio | Sí | No | Observaciones |
+|--------|----|----|--------------|
+| Modelo de datos correcto | ☐ | ☐ | |
+| Base de datos implementada | ☐ | ☐ | |
+| SQL funcional | ☐ | ☐ | |
+| Consultas correctas | ☐ | ☐ | |
+| Programación BD (SP/Triggers) | ☐ | ☐ | |
+| Seguridad básica | ☐ | ☐ | |
+| Optimización (índices, etc.) | ☐ | ☐ | |
+
+---
+
+### 💻 3. CE023 — Implementación
+
+| Criterio | Sí | No | Observaciones |
+|--------|----|----|--------------|
+| Sistema funcional completo | ☐ | ☐ | |
+| Arquitectura implementada | ☐ | ☐ | |
+| Integración frontend–backend | ☐ | ☐ | |
+| Integración con BD | ☐ | ☐ | |
+| APIs correctamente definidas | ☐ | ☐ | |
+| Integración de servicios externos (si aplica) | ☐ | ☐ | |
+| Sistema desplegado | ☐ | ☐ | |
+
+---
+
+### 🧪 4. CE024 — Calidad
+
+| Criterio | Sí | No | Observaciones |
+|--------|----|----|--------------|
+| Pruebas definidas | ☐ | ☐ | |
+| Casos de prueba ejecutados | ☐ | ☐ | |
+| Evidencia de resultados | ☐ | ☐ | |
+| CI/CD implementado | ☐ | ☐ | |
+| Pipeline funcional | ☐ | ☐ | |
+| Métricas del sistema | ☐ | ☐ | |
+| Auditoría técnica realizada | ☐ | ☐ | |
+| Plan de mejora definido | ☐ | ☐ | |
+
+---
+
+### 🎤 5. CE0217 — Sustentación
+
+| Criterio | Sí | No | Observaciones |
+|--------|----|----|--------------|
+| Video pitch claro | ☐ | ☐ | |
+| Demo funcional del sistema | ☐ | ☐ | |
+| Explicación técnica coherente | ☐ | ☐ | |
+| Justificación de decisiones | ☐ | ☐ | |
+| Responde preguntas correctamente | ☐ | ☐ | |
+
+---
+
+### 🔗 6. Integración del sistema
+
+| Criterio | Sí | No | Observaciones |
+|--------|----|----|--------------|
+| Requerimientos → sistema | ☐ | ☐ | |
+| Datos → implementación | ☐ | ☐ | |
+| Sistema coherente | ☐ | ☐ | |
+| Componentes integrados | ☐ | ☐ | |
+| No hay partes aisladas | ☐ | ☐ | |
+
+---
+
+### 🎯 7. Nivel del proyecto
+
+#### PS
+- ☐ Funcional básico  
+- ☐ Integración inicial  
+
+---
+
+#### PI
+- ☐ Sistema integrado  
+- ☐ Coherencia entre capas  
+
+---
+
+#### EPE
+- ☐ Sistema completo  
+- ☐ Nivel profesional  
+- ☐ Evidencia técnica sólida  
+- ☐ Sustentación robusta  
+
+---
+
+### ⚠️ 8. Observaciones generales
+
+- Fortalezas:
+- Debilidades:
+- Recomendaciones:
+
+---
+
+### 🏁 Conclusión
+
+☐ Aprobado  
+☐ Requiere mejoras  
+☐ No aprobado  
+
+---
+
+### 🧠 Nota final
+
+> Este checklist no reemplaza las rúbricas, sino que permite validar la coherencia e integración del sistema antes de la evaluación formal.
