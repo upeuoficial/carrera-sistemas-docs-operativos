@@ -10,14 +10,14 @@
 ## 2. Problema
 Describe el problema que se busca resolver.
 
-- **PS:** problema simple y acotado
+- **PS:** problema simple y acotado para cursos de Nivel 1
 - **PI:** problema real del contexto (negocio/organización)
 - **EPE:** problema real validado con evidencia (datos, actores)
 
 ## 3. Contexto y Stakeholders
 - Organización / entorno
 - Usuarios / actores
-- **PS:** 1–2 actores claros
+- **PS:** 1–2 actores claros para cursos de Nivel 1
 - **PI:** actores definidos + flujo de interacción
 - **EPE:** mapa de stakeholders + impacto
 
@@ -44,9 +44,9 @@ Qué incluye y qué no incluye el sistema.
 - **EPE:** fuentes, volumen, restricciones
 
 ## 7. Enfoque de solución
-- Tipo de sistema (web, móvil, microservicios)
+- Tipo de sistema Transcacional (web, móvil, microservicios, ), Ciencia de datos e IA (BI, ML, Big data, IA), Infraestructura, Gestión
 - Consideraciones técnicas
-- **PS:** enfoque simple
+- **PS:** enfoque simple para los cursos de Nivel 1
 - **PI:** arquitectura básica (capas/API)
 - **EPE:** decisiones arquitectónicas justificadas
 
@@ -87,7 +87,7 @@ Qué incluye y qué no incluye el sistema.
 
 ## Cómo usarlo (operativo)
 
-- **En PS:** 1 sesión de definición, aprobación rápida, enfoque guiado
+- **En PS:** 1 sesión de definición, aprobación rápida, enfoque guiado para cursos N1
 - **En PI:** revisión más rigurosa, validación de integración, posible iteración
 - **En EPE:** revisión formal (docente + jurado), exige sustento real, puede ser rechazado
 

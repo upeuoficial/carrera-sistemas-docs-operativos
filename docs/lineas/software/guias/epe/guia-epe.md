@@ -12,6 +12,9 @@ La presente guía orienta la Evaluación del Perfil de Egreso (EPE) en la línea
 
 El EPE evalúa la capacidad del estudiante para **integrar, validar y sustentar un sistema de software a nivel profesional**.
 
+El sistema evaluado en el EPE debe cumplir con las condiciones definidas en la línea de software:
+[Ver alcance del proyecto](../../index.md)
+
 ---
 
 ## 🧠 2. Enfoque
@@ -80,9 +83,9 @@ El proceso inicia con la **consolidación del problema del proyecto**.
 Debe incluir:
 
 - Problema  
-- Objetivos  
+- Objetivos de la solución
 - Alcance  
-- Stakeholders  
+- Contexto y Stakeholders  
 
 📌 Hito obligatorio:
 
